@@ -1,0 +1,27 @@
+<svg class="icon">
+  <use xlink:href="#alert"></use>
+</svg><svg class="icon">
+  <use xlink:href="#check"></use>
+</svg><svg class="icon">
+  <use xlink:href="#error"></use>
+</svg><svg class="icon">
+  <use xlink:href="#eye"></use>
+</svg><svg class="icon">
+  <use xlink:href="#eye-slash"></use>
+</svg><svg class="icon">
+  <use xlink:href="#lock-solid"></use>
+</svg><svg class="icon">
+  <use xlink:href="#pause-circle-solid"></use>
+</svg><svg class="icon">
+  <use xlink:href="#play-circle-solid"></use>
+</svg><svg class="icon">
+  <use xlink:href="#plus-circle-solid"></use>
+</svg><svg class="icon">
+  <use xlink:href="#search-solid"></use>
+</svg><svg class="icon">
+  <use xlink:href="#times"></use>
+</svg><svg class="icon">
+  <use xlink:href="#unlock-alt-solid"></use>
+</svg><svg class="icon">
+  <use xlink:href="#user-astronaut-solid"></use>
+</svg>
